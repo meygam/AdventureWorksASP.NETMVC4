@@ -1,0 +1,7 @@
+C:\src\AdventureWorks\AdventureWorksASP.NETMVC4\AdventureWorksASP.NETMVC4\AW.Business\obj\Debug\AW.Business.csprojResolveAssemblyReference.cache
+C:\src\AdventureWorks\AdventureWorksASP.NETMVC4\AdventureWorksASP.NETMVC4\AW.Business\bin\Debug\AW.Business.dll
+C:\src\AdventureWorks\AdventureWorksASP.NETMVC4\AdventureWorksASP.NETMVC4\AW.Business\bin\Debug\AW.Business.pdb
+C:\src\AdventureWorks\AdventureWorksASP.NETMVC4\AdventureWorksASP.NETMVC4\AW.Business\bin\Debug\AW.EnityModel.dll
+C:\src\AdventureWorks\AdventureWorksASP.NETMVC4\AdventureWorksASP.NETMVC4\AW.Business\bin\Debug\AW.EnityModel.pdb
+C:\src\AdventureWorks\AdventureWorksASP.NETMVC4\AdventureWorksASP.NETMVC4\AW.Business\obj\Debug\AW.Business.dll
+C:\src\AdventureWorks\AdventureWorksASP.NETMVC4\AdventureWorksASP.NETMVC4\AW.Business\obj\Debug\AW.Business.pdb

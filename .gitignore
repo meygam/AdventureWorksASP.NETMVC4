@@ -1,0 +1,5 @@
+
+*.suo
+AW*.dll
+AW*.pdb
+AW*.dll.config

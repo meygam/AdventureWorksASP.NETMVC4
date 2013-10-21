@@ -1,0 +1,6 @@
+C:\src\AdventureWorks\AdventureWorksASP.NETMVC4\AdventureWorksASP.NETMVC4\AWEnityModel\bin\Debug\AW.EnityModel.dll.config
+C:\src\AdventureWorks\AdventureWorksASP.NETMVC4\AdventureWorksASP.NETMVC4\AWEnityModel\bin\Debug\AW.EnityModel.dll
+C:\src\AdventureWorks\AdventureWorksASP.NETMVC4\AdventureWorksASP.NETMVC4\AWEnityModel\bin\Debug\AW.EnityModel.pdb
+C:\src\AdventureWorks\AdventureWorksASP.NETMVC4\AdventureWorksASP.NETMVC4\AWEnityModel\obj\Debug\AW.EnityModel.dll
+C:\src\AdventureWorks\AdventureWorksASP.NETMVC4\AdventureWorksASP.NETMVC4\AWEnityModel\obj\Debug\AW.EnityModel.pdb
+C:\src\AdventureWorks\AdventureWorksASP.NETMVC4\AdventureWorksASP.NETMVC4\AWEnityModel\obj\Debug\AW.EnityModel.csprojResolveAssemblyReference.cache
